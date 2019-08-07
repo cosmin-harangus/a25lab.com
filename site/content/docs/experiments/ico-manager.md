@@ -1,3 +1,7 @@
+---
+title: ICO Manager
+date: 2019-08-07T21:01:53.084Z
+---
 # ICO Manager
 
 The ICO Manager allows you to easilly create and deploy ERC20 tokens and 
