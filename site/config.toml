@@ -2,7 +2,7 @@
 
 baseURL = 'http://a25lab.com/'
 title = 'Around25 R&D Lab'
-theme = 'hugo-book'
+theme = 'book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 # themesDir = '../..'
 
