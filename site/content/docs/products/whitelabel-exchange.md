@@ -1,3 +1,7 @@
+---
+title: Hashiru.Exchange
+date: 2019-08-07T21:03:51.212Z
+---
 # Hashiru.Exchange
 
 Building an exchange from scratch is hard; very hard. From choosing the right technologies, 
