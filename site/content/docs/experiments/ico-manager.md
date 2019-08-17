@@ -39,6 +39,12 @@ Distributing tokens to your team is easy and verifiable through the use of lock 
 * Create and list Timelock contracts that exist on your contract
 * Unlimited free use for testnet before moving to mainnet
 
+## Requirements
+
+* A Chrome or Brave browser with [Metamask](https://metamask.io/) extension installed
+* Your hardware wallet, if you have one, connected to Metamask as described [here](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
+* Enough Ether to be able to execute each action (will be estimated before execution)
+
 ## Visit the project
 
 To learn more about the project and see it in action visit: https://icomanager.a25lab.com
