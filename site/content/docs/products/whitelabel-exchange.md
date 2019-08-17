@@ -1,17 +1,14 @@
 ---
-title: Hashiru.Exchange
+title: Whitelabel Exchange
 date: 2019-08-07T21:03:51.212Z
 ---
-# Hashiru.Exchange
+# Whitelabel Exchange
 
-Building an exchange from scratch is hard; very hard. From choosing the right technologies, 
-ensuring security and scalability, to daily maintenance and operations.
+Building an exchange from scratch is hard; very hard. From choosing the right technologies, ensuring security and scalability, to daily maintenance and operations.
 
-The Hashiru.Exchange platform allows you to quickly deploy a high performance white label
-exchange in a matter of minutes, while ensuring the highest level of security and compliance.
+The Hashiru.Exchange platform allows you to quickly deploy a high performance white label exchange in a matter of minutes, while ensuring the highest level of security and compliance.
 
-The system is tested and audited regularly by qualified professionals and third party entities 
-and has been battle tested already in a number of exchanges.
+The system is tested and audited regularly by qualified professionals and third party entities and has been battle tested already in a number of exchanges.
 
 For a live demo and licensing options you can contact us [here](https://around25.com/contact).
 
