@@ -30,15 +30,19 @@ Fast forward a few months and we've actually started using it for a client as th
 
 # Features
 
-- Over 1.000.000 trades per second
+- State of the art algorithm that can process over 1.000.000 trades per second
 - Support for limit, market and stop orders
 - Support for order cancellation
 - Highly scalable infrastructure with Apache Kafka and Protobuf
 - Easy deployments with Docker
-- Configurable automatic backups
+- Configurable backups with automatic save and reload
+- Monitoring support with Prometheus and Grafana
 
 # License
 
 If you want your exchange to support a large number of trades than we can help. Our matching engine is available for licensing with complete technical support. Contact us here for licensing terms and pricing: https://around25.com/contact
 
+# Need help?
+
+Building out a financial system can be extremely challenging, we've learned that the hard way. If you're building your own crypto exchange and you are feeling overwhelmed we offer consulting services on Blockchain, High performance systems and Scalable architecture. Just send us a message [here](https://around25.com/contact).
 
