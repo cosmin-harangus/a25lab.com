@@ -2,7 +2,7 @@
 title: ICO Manager
 date: 2019-08-07T21:01:53.084Z
 ---
-# ICO Manager
+# Experiment: ICO Manager
 
 So you want to start your own crypto project and use an ERC20 token as a utility token inside your project as well as a distribution mechanism in order to raise funds for your ICO. 
 
